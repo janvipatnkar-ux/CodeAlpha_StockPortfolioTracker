@@ -1,0 +1,9 @@
+Hello,
+
+Welcome to our contact list.
+
+For general queries, contact us at support@example.com.
+For technical support, email techsupport@example.com.
+You can also reach our manager at manager@example.org.
+
+Thank you.
